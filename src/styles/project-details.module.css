@@ -1,0 +1,31 @@
+.details h2 {
+  font-size: 3.5em;
+  margin-top: 80px;
+}
+
+.details h3 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-bottom: 40px;
+}
+
+.htmlStyle {
+  margin-top: 40px;
+}
+
+.featured {
+  margin-bottom: 40px;
+}
+
+@media (max-width: 800px) {
+  .details h2 {
+    font-size: 24px;
+    margin-top: 50px;
+  }
+
+  .details h3 {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }
+}

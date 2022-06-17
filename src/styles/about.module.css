@@ -1,0 +1,21 @@
+.aboutStyles {
+  padding: 40px 0;
+}
+
+.aboutStyles h3 {
+  margin-bottom: 8px;
+}
+
+.aboutStyles p {
+  margin-top: 6px;
+  line-height: 1.6;
+}
+
+.aboutLinks {
+  text-decoration: underline;
+}
+
+.description {
+  max-width: 600px;
+  margin-left: 0 !important;
+}
